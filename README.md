@@ -27,7 +27,7 @@ Here's a glimpse into my journey:
 
 - *Languages:* C++, Java  
 - *Algorithms:Time series analysis,Heap sort, Chain Hashing, Graph Traversal (DFS/BFS)
-- *Tools:* Graphs, DAA Optimization Techniques  
+- *Tools:* Graphs, DAA Optimization Techniques   
 
 *Impact:*  
 
